@@ -6,7 +6,6 @@ This projects is part of the Udacity Data Scientist Nanodegree and implements di
 * [Installation](#Installation)
 * [Project Motivation](#motivation)
 * [File Description](#description)
-* [Results](#Results)
 * [Licensing, Authors, Acknowledgements](#licensing)
 
 ## Installation
@@ -17,9 +16,9 @@ Recommendation engines are becoming more and more popular across different platf
 
 There are different approaches to recommendation system and three of them have been implemented in this project.
 
-I. Rank Based Recommendations
-II. User-User Based Collaborative Filtering
-III. Matrix Factorization
+1. Rank Based Recommendations
+2. User-User Based Collaborative Filtering
+3. Matrix Factorization
 
 ## File Description <a name="description"></a>
 There is one file titled `Recommendations_with_IBM.ipynb` that includes all code. In the `data` folder, you can find the underlying datasets that are being used for the recommendation systems. The other files in this repository are used for testing purposes.
